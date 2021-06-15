@@ -1,0 +1,8 @@
+-------ITEMS
+
+new damage types added to json: AbilityHaste, EnergizedDamage, Omnivamp, PhysicalOnHit, PotionTrueDamageDPS, MagicPenetration, MagicPenetrationPercent, TemporaryTearMana, Lethality
+
+added Legendary and Mythic to itemsJSON["data"]["item-code"]["colloq"]
+
+added itemsJSON["data"]["item-code"]["MythicIncrease"]
+
